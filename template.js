@@ -96,6 +96,7 @@ exports.template = function(grunt, init, done) {
               "node-sass": "^3.8.0",
               "raw-loader": "^0.5.1",
               "reflect-metadata": "^0.1.3",
+              "rimraf": "^2.5.2",
               "rxjs": "5.0.0-beta.12",
               "sass-loader": "^4.0.0",
               "systemjs": "0.19.27",
